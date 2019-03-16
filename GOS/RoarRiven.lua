@@ -16,7 +16,7 @@ function AutoUpdate(data)
     end
 end
 
-GetWebResultAsync("https://raw.githubusercontent.com/LetsRoar/Scripts/master/RivenRoar.version", AutoUpdate)
+GetWebResultAsync("https://raw.githubusercontent.com/LetsRoar/Scripts/master/GOS/RivenRoar.version", AutoUpdate)
 
 -- lib
 
